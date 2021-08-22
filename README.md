@@ -12,7 +12,7 @@
 
 ## Como rodar o projeto?
 
-Após baixar o projeto, acesse ele via seu terminal rode os comandos:
+Após baixar o projeto, acesse ele via terminal e rode os comandos:
 
 ```sh
 npm install
